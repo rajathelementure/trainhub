@@ -1,3 +1,5 @@
 feature1
 feature2
-new-feature-01
+new-feature-1
+new-feature-2
+
